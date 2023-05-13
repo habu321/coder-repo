@@ -1,0 +1,80 @@
+.tour{
+    color: white;
+    background-color: rgb(22, 191, 221);
+    text-align:justify;
+    padding: 40px;
+    margin: 20px 10px 20px 10px;
+    border: 1px solid rgb(47, 255, 241);
+    border-radius: 0px 50px;
+   
+}
+.abc{
+    text-align: center;
+    background-color: rgba(6, 60, 60, 0.368);
+    margin: 0px 600px 0px 600px;
+}
+.tour h3{
+    text-align: center;
+    color: crimson;
+    background-color:white;
+    margin: 0px 600px 0px 600px;
+}
+.tour p{
+    color: white;
+    
+}
+.head{
+    text-align: center;
+    font-variant: small-caps;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+   
+}
+.link{
+    background-color: rgba(0, 255, 255, 0.451);
+    margin: 10px 300px 10px 330px;
+    padding: 0px;
+}
+.a{
+    padding-left: 40px;
+    
+}
+   
+.b{
+    padding-left: 50px;
+
+
+}
+    
+
+.c{
+   padding-left: 40px;
+    
+}
+.image{
+    height: 100px;
+    width: 100px;
+    margin-left:660px;
+
+}
+.image2{
+    height: 200px;
+    width: 200px;
+}
+.menu{
+    text-align:justify;
+    text-align: center;
+    color: rgb(111, 8, 59);
+}
+.image3{
+    text-align: center;
+    color:black;
+    text-decoration: underline;
+    
+}
+.cont{
+    color: white;
+    text-align: center;
+
+}
+
