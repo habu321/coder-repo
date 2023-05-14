@@ -1,0 +1,18 @@
+.paragraph{
+    color:black;
+    background-color: rgb(34, 255, 255);
+    padding: 50px;
+    text-align: justify;
+    font-style: oblique;
+    margin:50px;
+    
+}
+.header{
+    text-align: center;
+    color: coral;
+    text-decoration:underline;
+   text-transform: uppercase;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+  
+}
