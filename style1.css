@@ -1,14 +1,15 @@
 body{
     font-family: 'Merriweather', serif;
-    background-color:antiquewhite;
+   background-color: antiquewhite;
 }
+  
 h1{
     font-size: 50px;
 }
 .orange{
     color: orange;
 }
-section{
+.flexibole-container{
     display: flex;
     margin-bottom: 140px;
 }
@@ -16,6 +17,9 @@ section{
     width: 50%;
     padding-left:5%;
    
+}
+.left{
+    margin-left:20%;
 }
 .half-width img{
  width: 100%;
@@ -40,4 +44,25 @@ h2{
 }
 .dream-big{
     padding-right:5%;
+}
+.left{
+    padding-left:5%;
+}
+.developer{
+    box-shadow: 10px 10px 30px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 50px;
+    border-radius:5px;
+
+}
+#full-stack-developer{
+    border-left: 10px solid salmon;
+}
+#front-end-developer{
+    border-left: 10px solid purple;
+}
+footer h4{
+    text-align: center;
 }

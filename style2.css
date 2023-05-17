@@ -1,0 +1,72 @@
+body{
+
+}
+h1{
+    font-size: 60px;
+}
+span{
+color: coral;
+}
+.fexible{
+    display: flex;
+    margin-left:  30px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    height: 400px;
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.paragraph{
+    text-align: justify;
+}
+.cng{
+    text-align: justify;
+    margin-right:5%;
+}
+a{
+    background-image: linear-gradient(red,rgb(255, 151, 40));
+    padding: 10px 20px 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius:3px;
+}
+.future-plan{
+    padding-top:5%;
+}
+.left{
+    padding-left: 30px;
+}
+.color{
+    color: hotpink;
+    font-size:30px;
+}
+.graphics{
+    box-shadow: 10px 10px 40px gray;
+   margin-left:5%;
+   margin-right: 5%;
+   padding-left: 30px;
+   padding-right: 30px;
+   margin-bottom: 10%;
+   text-align: justify;
+   border-radius: 10px;
+   border-left: 15px solid firebrick;
+}
+.graphics h1{
+    text-align: center;
+}
+.graphics h2{
+    text-align: center;
+}
+.experience{
+    text-align: center;
+    padding-top:5%;
+}
+footer{
+    text-align: center;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
